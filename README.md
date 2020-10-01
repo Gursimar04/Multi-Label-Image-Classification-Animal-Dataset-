@@ -5,7 +5,6 @@
 ### Table Of Contents
 - [Dataset](#dataset)
 - [About The Notebook](#aboutthenotebook)
-- [How To Use](#how-to-use)
 - [Author Info](#author-info)
 
 ---
@@ -19,7 +18,7 @@ The training dataset consists of over 8000  animal images belonging to 5 categor
 
 ### About The Notebook
 
-This was the final task for the deep laearning bootcamp organised by DPhi. The bootcamp consisted of 100+ hours of coursework, live sessions from
+This notebook acted as my submission for the final task of DPhi's the deep learning bootcamp organised . The bootcamp consisted of 100+ hours of coursework, live sessions from
 industry experts, quizzes, and projects/datathons on real-world image data.
 
 This notebook was marked as one of the best submissions for the assignment/datathon.
