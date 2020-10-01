@@ -32,4 +32,4 @@ The well documented notebook consists of 3 models: A Multilayer Perceptron, A CN
 ## Author Info
 - Linkedin - [Gursimar Singh Bedi](https://www.linkedin.com/in/gursimar-singh-bedi-31439a170)
 
-[Back to the top](#railway-reservation-simulator-model-with-seat-booking-gui)
+[Back to the top](#Multi-Label-Image-Classification-Animal-Dataset-)
